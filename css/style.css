@@ -595,7 +595,7 @@ footer section div ul > li:hover {
 /* RESPONSIVE */
 /* ********** */
 
-@media (max-width: 768px) {
+@media (max-width: 1021px) {
   /* HEADER */
   header {
     padding: 0;
